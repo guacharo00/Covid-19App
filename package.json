@@ -1,7 +1,6 @@
 {
   "name": "covidapp",
   "version": "0.1.0",
-  "homepage": "covid.luisfructuoso.com",
   "private": true,
   "engine": {
     "npm": "6.13.4",

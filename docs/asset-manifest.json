@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/covid.luisfructuoso.com/static/css/main.35f99881.chunk.css",
-    "main.js": "/covid.luisfructuoso.com/static/js/main.d3bfdc3d.chunk.js",
-    "main.js.map": "/covid.luisfructuoso.com/static/js/main.d3bfdc3d.chunk.js.map",
-    "runtime-main.js": "/covid.luisfructuoso.com/static/js/runtime-main.f59253eb.js",
-    "runtime-main.js.map": "/covid.luisfructuoso.com/static/js/runtime-main.f59253eb.js.map",
-    "static/js/2.bd789228.chunk.js": "/covid.luisfructuoso.com/static/js/2.bd789228.chunk.js",
-    "static/js/2.bd789228.chunk.js.map": "/covid.luisfructuoso.com/static/js/2.bd789228.chunk.js.map",
-    "index.html": "/covid.luisfructuoso.com/index.html",
-    "precache-manifest.a32fd59e1c3e67ac7fa02b61de668be2.js": "/covid.luisfructuoso.com/precache-manifest.a32fd59e1c3e67ac7fa02b61de668be2.js",
-    "service-worker.js": "/covid.luisfructuoso.com/service-worker.js",
-    "static/css/main.35f99881.chunk.css.map": "/covid.luisfructuoso.com/static/css/main.35f99881.chunk.css.map",
-    "static/js/2.bd789228.chunk.js.LICENSE.txt": "/covid.luisfructuoso.com/static/js/2.bd789228.chunk.js.LICENSE.txt",
-    "static/media/image.png": "/covid.luisfructuoso.com/static/media/image.d7265326.png"
+    "main.css": "/static/css/main.35f99881.chunk.css",
+    "main.js": "/static/js/main.f125ffa2.chunk.js",
+    "main.js.map": "/static/js/main.f125ffa2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a23cfd3e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a23cfd3e.js.map",
+    "static/js/2.20132eea.chunk.js": "/static/js/2.20132eea.chunk.js",
+    "static/js/2.20132eea.chunk.js.map": "/static/js/2.20132eea.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2bfd55f3776bf7e16f87077441d291c8.js": "/precache-manifest.2bfd55f3776bf7e16f87077441d291c8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.35f99881.chunk.css.map": "/static/css/main.35f99881.chunk.css.map",
+    "static/js/2.20132eea.chunk.js.LICENSE.txt": "/static/js/2.20132eea.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/static/media/image.d7265326.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f59253eb.js",
-    "static/js/2.bd789228.chunk.js",
+    "static/js/runtime-main.a23cfd3e.js",
+    "static/js/2.20132eea.chunk.js",
     "static/css/main.35f99881.chunk.css",
-    "static/js/main.d3bfdc3d.chunk.js"
+    "static/js/main.f125ffa2.chunk.js"
   ]
 }
